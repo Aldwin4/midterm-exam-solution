@@ -1,5 +1,2 @@
-# QUESTION 1 
-# QUESTION 2
-# QUESTION 3
-# QUESTION 4
-# QUESTION 5
+# Midterm Exam (Activity-16543)
+# IPT 2025 Midterm Activity Examination (19026-INTPROG-TTH)
